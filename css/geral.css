@@ -1,0 +1,108 @@
+html, body {height:100%;
+
+padding:0;margin:0}
+
+.area-topo{
+	background:url(../img/fundo_.jpg);
+	height:15%;
+	text-align:center;
+}
+
+.comum{
+	text-align:center;
+	vertical-align: middle;
+	font-size: small;
+	display: flex;
+	justify-content:center;
+	align-content:center;
+	flex-direction:column;
+	font-weight:bold;
+	color:#FFF;
+}
+
+a{
+	font-weight:bold;
+	color:#FFF;
+}
+
+a:hover,a:active{
+	text-decoration:none;
+}
+
+.box-direita{
+	width:50%;
+	float:right;
+	height:25%;
+}
+
+.box-esquerda{
+	width:50%;
+	float:left;
+	height:25%;
+}
+
+.agenda{
+	background:url(../img/agenda.jpg) no-repeat;
+	background-size: 100%;
+	height:10%;
+}
+
+.sobre{
+	background:url(../img/sobre.jpg) no-repeat;
+	background-size: 100%;
+}
+
+.local{
+	background:url(../img/local.jpg) no-repeat;
+	background-size: 100%;
+}
+
+.julgamentos{
+	background:url(../img/julgamentos.jpg) no-repeat;
+	background-size: 100%;
+}
+
+.mapas{
+	width:50%;
+	float:right;
+	background:url(../img/mapas.jpg) no-repeat;
+	background-size: 100%;
+}
+
+.churrascada{
+	background:url(../img/churrascada.jpg) no-repeat;
+	background-size: 100%;
+}
+
+.cursos{
+	background:url(../img/cursos.jpg) no-repeat;
+	background-size: 100%;
+}
+
+
+.patrocinadores{
+	background:url(../img/patrocinadores.jpg) no-repeat;
+	background-size: 100%;
+}
+
+.apoio{
+	background:url(../img/apoio.jpg) no-repeat;
+	background-size: 100%;
+}
+
+.agrupador{
+    background: rgba(20, 20, 20, .3);
+    width: 100%;
+    height: 100%;
+    left: 0;
+    float:left;
+}
+
+.area-central{
+	width:100%;
+	padding:10px;
+	float:left;
+	text-align: justify;
+	background: #FFF;
+	color:#000;
+}
